@@ -1,2 +1,1 @@
-This project is based on database storage of bus reservation with the usage of ,
-java and database(sql)
+Create a bus reservation system using Java for backend logic and SQL for database storage. Implement features for user registration, seat booking, and reservation management with a user-friendly interface. Use JDBC for database connectivity and CRUD operations.
